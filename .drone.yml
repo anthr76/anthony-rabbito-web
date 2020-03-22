@@ -3,8 +3,11 @@ kind: pipeline
 type: docker
 name: default
 
-steps:
+platform:
+  os: linux
+  arch: amd64
 
+steps:
 - name: build
   image: jekyll/jekyll:latest
   commands:
@@ -19,17 +22,19 @@ steps:
 - name: publish
   image: drillster/drone-rsync
   settings:
+    delete: true
     hosts:
       from_secret: hosts
     key:
       from_secret: pipeline_key
-    user:
-      from_secret: pipeline_user
-    source: ./*
+    recursive: true
+    source: /drone/src/_site
     target:
       from_secret: host_target
-    recursive: true
-    delete: true
+    user:
+      from_secret: pipeline_user
     when:
-      branch: [master]
-      event: [push]
+      branch:
+      - master
+      event:
+      - push
