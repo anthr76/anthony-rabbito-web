@@ -24,7 +24,7 @@ steps:
   settings:
     delete: true
     hosts:
-      from_secret: hosts
+      from_secret: hill_ip
     key:
       from_secret: pipeline_key
     recursive: true
