@@ -11,7 +11,8 @@ pipeline:
       - bundle exec jekyll build
   transfer-build:
     image: drillster/drone-rsync
-    hosts: ["hill", "theater", "lincoln"]
+    hosts:
+      from_secret: hosts
     key:
       from_secret: pipeline_key
     user:
