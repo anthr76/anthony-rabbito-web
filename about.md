@@ -50,8 +50,8 @@ Technical Experience
 Side Projects
 :   Free time is best spent tinkering, learning and tweaking.
 
-    * [Homelabbing](reddit.com/r/homelab) setting up a proper self-hosted enviorments instead of depending on SaaS providers where logical.
-    * [VFIO](reddit.com/r/VFIO) I'm a gamer, but a full time Linux Desktop user. In order to play some of my games I use GPU passthough.
+    * [Homelabbing](reddit.com/r/homelab) setting up a proper self-hosted environments instead of depending on SaaS providers where logical.
+    * [VFIO](reddit.com/r/VFIO) I'm a gamer, but a full time Linux Desktop user. In order to play some of my games I use PCIe GPU passthrough.
 
 Open Source
 :   Enthusiast of all things FOSS, and avid listener to [JupiterBroadcasting](https://www.jupiterbroadcasting.com/). I love to stay up to date in my open source news.
