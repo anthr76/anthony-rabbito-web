@@ -28,7 +28,7 @@ steps:
     key:
       from_secret: pipeline_key
     recursive: true
-    source: /drone/src/_site
+    source: /drone/src/_site/.
     target:
       from_secret: host_target
     user:
