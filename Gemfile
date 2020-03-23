@@ -28,5 +28,5 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
-#Theme
+#Theme (https://github.com/b2a3e8/jekyll-theme-console)
 gem "jekyll-theme-console"
