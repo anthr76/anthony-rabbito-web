@@ -20,18 +20,19 @@ steps:
   - bundle exec jekyll build
 
 - name: publish
-  image: drillster/drone-rsync
+  image: appleboy/drone-scp
   settings:
-    delete: true
-    hosts:
+    rm: true
+    host:
       from_secret: hill_ip
+      from_secret: theater_ip
+      from_secret: lincoln_ip
     key:
       from_secret: pipeline_key
-    recursive: true
-    source: /drone/src/_site/.
+    source: /drone/src/_site/
     target:
       from_secret: host_target
-    user:
+    username:
       from_secret: pipeline_user
     when:
       branch:
