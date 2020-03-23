@@ -22,6 +22,7 @@ theme: jekyll-theme-console
 header_pages:
   - index.md
   - about.md
+  - config.md
 
 style: dark # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
