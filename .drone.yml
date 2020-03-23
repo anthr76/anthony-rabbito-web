@@ -33,8 +33,8 @@ steps:
     username:
       from_secret: pipeline_user
     strip_components: 3
-    when:
-      branch:
+  when:
+    branch:
       - master
-      event:
+    event:
       - push
