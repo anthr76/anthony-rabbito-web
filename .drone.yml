@@ -24,9 +24,7 @@ steps:
   settings:
     rm: true
     host:
-      from_secret: hill_ip
-      from_secret: theater_ip
-      from_secret: lincoln_ip
+      from_secret: scp_hosts
     key:
       from_secret: pipeline_key
     source: /drone/src/_site/
@@ -34,6 +32,7 @@ steps:
       from_secret: host_target
     username:
       from_secret: pipeline_user
+    strip_components: 3
     when:
       branch:
       - master
