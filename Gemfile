@@ -30,3 +30,6 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 #Theme (https://github.com/b2a3e8/jekyll-theme-console)
 gem "jekyll-theme-console"
+
+#Jekyll SEO Tag (https://github.com/jekyll/jekyll-seo-tag)
+gem 'jekyll-seo-tag'

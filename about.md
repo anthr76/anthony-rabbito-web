@@ -32,7 +32,7 @@ Experience
 
 **Susquehanna International Group: Data Center System Administrator**
 
-Ensure uptime and reliability supporting our organization in our collocation datacenters:
+Ensure uptime and reliability supporting our organization in our collocation data-centers.
 
 * Development, scripting, and automation to ease day-to-day tasks.
 

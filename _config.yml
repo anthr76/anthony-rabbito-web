@@ -30,3 +30,16 @@ listen_for_clients_preferred_style: true # true or false (default)
 footer: 'GnuPG Key: A54D8FB506C103352E67737587CB975CFF2E7D8F'
 
 google_analytics: UA-118294122-1
+
+plugins:
+  - jekyll-seo-tag
+
+#SEO Customization
+title: Anthony Rabbito
+tagline: Anthony Rabbito's personal website & blog.
+url: https://anthonyrabbito.com
+social:
+  name: Anthony Rabbito
+  links:
+    - https://github.com/anthr76
+    - https://www.linkedin.com/in/anthony-rabbito-0a4448109/
