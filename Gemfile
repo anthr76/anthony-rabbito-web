@@ -33,3 +33,6 @@ gem "jekyll-theme-console"
 
 #Jekyll SEO Tag (https://github.com/jekyll/jekyll-seo-tag)
 gem 'jekyll-seo-tag'
+
+#GH Pages for Jekyll
+gem "github-pages", group: :jekyll_plugins
