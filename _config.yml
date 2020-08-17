@@ -26,18 +26,6 @@ header_pages:
   - contact.md
 
 
-lsi: false
-safe: true
-source: [/]
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-
-
 style: dark # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
 
