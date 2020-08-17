@@ -33,9 +33,6 @@ footer: 'GnuPG Key: A54D8FB506C103352E67737587CB975CFF2E7D8F'
 
 google_analytics: UA-118294122-1
 
-plugins:
-  - jekyll-seo-tag
-
 #SEO Customization
 title: Anthony Rabbito
 tagline: Anthony Rabbito's personal website & blog.
