@@ -10,7 +10,7 @@ Anthony Rabbito
 -------------------     ----------------------------
 
 Greater NYC Area                   [hello@anthonyrabbito.com](mailto:hello@anthonyrabbito.com)
-United States                      [telegram](https://t.me/anthr76)
+United States                      [@anthony:matrix.rabbito.tech](https://matrix.to/#/@anthony:matrix.rabbito.tech)
 
 -------------------     ----------------------------
 
