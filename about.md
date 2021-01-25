@@ -29,7 +29,7 @@ Education
 Experience
 ----------
 
-###*Susquehanna International Group: Data Center System Administrator**
+**Susquehanna International Group: Data Center System Administrator**
 
 Ensure uptime and reliability supporting our organization in our collocation data-centers.
 
@@ -39,7 +39,7 @@ Ensure uptime and reliability supporting our organization in our collocation dat
 
 * Server deployments, and strategic planning.
 
-###**NICE Ltd.**
+**NICE Ltd.**
 
 Help Desk Level II 
 
