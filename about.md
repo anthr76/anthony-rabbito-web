@@ -29,7 +29,7 @@ Education
 Experience
 ----------
 
-**Susquehanna International Group: Data Center System Administrator**
+###*Susquehanna International Group: Data Center System Administrator**
 
 Ensure uptime and reliability supporting our organization in our collocation data-centers.
 
@@ -37,9 +37,9 @@ Ensure uptime and reliability supporting our organization in our collocation dat
 
 * Working with high scaled networking infrastructure
 
-* Server deployments
+* Server deployments, and strategic planning.
 
-**NICE Ltd.**
+###**NICE Ltd.**
 
 Help Desk Level II 
 
@@ -49,7 +49,7 @@ Technical Experience
 Side Projects
 :   Free time is best spent tinkering, learning and tweaking.
 
-    * [Homelabbing](https://www.reddit.com/r/homelab) setting up a proper self-hosted environments instead of depending on SaaS providers where logical.
+    * [Homelabbing](https://www.reddit.com/r/homelab) setting up a proper self-hosted environments instead of depending on SaaS providers where logical. I leverage a Kubernetes cluster managed with [GitOps](https://toolkit.fluxcd.io/).
     * [VFIO](https://www.reddit.com/r/VFIO) I'm a gamer, but a full time Linux Desktop user. In order to play some of my games I use PCIe GPU passthrough.
 
 Open Source
@@ -57,6 +57,7 @@ Open Source
     * Contributions to the [KDE-Web Project](https://invent.kde.org/kde)
     * Various bug reports filed to the [Arch Linux Bug Tracker](https://bugs.archlinux.org/)
     * GitHub sponsor to the [LookingGlass Project](https://github.com/gnif/LookingGlass)
+    * Organization member to the [Raspbernetes project](https://github.com/raspbernetes)
     
 
 Programming Languages
@@ -64,7 +65,7 @@ Programming Languages
 
 :   **Shell:** Bash, and ZSH.
 
-:   **YAML:** Automatic experenice such as Anible, and working with Kubernetes.
+:   **YAML:** Automatic experience such as Ansible, and working with Kubernetes.
 
 :   Basic knowledge of **C++**, **JS**, **Python**, **Go**
 
