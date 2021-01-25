@@ -17,9 +17,8 @@ United States                      [@anthony:matrix.rabbito.tech](https://matrix
 Education
 ---------
 
-2018-2019
-:   **AS, Mathematics**; Essex County College (Newark, New Jersey)
-
+2021-Present
+:   **BS, Cloud-Computing**; Western Governors University (Salt Lake City, Utah)
 
 2016-2018
 :   **BS, Computer Science**; King's College (Wilkes-Barre, Pennsylvania)
@@ -65,9 +64,9 @@ Programming Languages
 
 :   **Shell:** Bash, and ZSH.
 
-:   **YAML** 
+:   **YAML:** Automatic experenice such as Anible, and working with Kubernetes.
 
-:   Basic knowledge of **C++**, **JS**, **Python**, **SQL**
+:   Basic knowledge of **C++**, **JS**, **Python**, **Go**
 
 
 Small Tidbits
